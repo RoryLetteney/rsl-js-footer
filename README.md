@@ -1,6 +1,8 @@
 ## RSL JS Footer
 
->This should be used in the following manner
+This package creates a footer at the bottom of the webpage that automatically updates the copyright year.
+
+>This should be used in the following manner:
 
 ```
 npm install --save rsl-js-footer
