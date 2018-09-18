@@ -1,6 +1,6 @@
 ## RSL JS Footer
 
-This package creates a footer at the bottom of the webpage that automatically updates the copyright year.
+This module allows for a dynamic footer to be generated for JS applications with an updated year and name.
 
 >This should be used in the following manner:
 
